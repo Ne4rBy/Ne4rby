@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
 - 🏅 **eJPTv2 Certificate:** [View PDF](https://certs.ine.com/b2678158-1158-460a-b1ab-daea02c34b77#acc.wNMqDc73)    
 
 - 🧩 **TryHackMe Badge:**  
-  ![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3714931)    
+  **TryHackMe Badge:**
+  ![tryhackme stats](https://raw.githubusercontent.com/Ne4rby/Ne4rby/master/assets/thm_propic.png)   
 
 ---
 
