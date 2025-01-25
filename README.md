@@ -51,4 +51,4 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne4rby&layout=compact&theme=radical)  
 
 ---
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ne4rby.png" alt="Your Image Badge" />
