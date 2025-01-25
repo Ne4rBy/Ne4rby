@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Samuel Laveau 👋  
 
-<!--
-**Ne4rBy/Ne4rby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for learning and solving complex challenges. I recently achieved my **eJPTv2 certification**, and I enjoy showcasing my journey through detailed writeups and projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me  
+- 💻 **Certified:** eJPTv2.  
+- 🎯 **Focus Areas:** Penetration testing, exploit development, and CTF challenges.  
+- 🛠️ **Tools I Use:** Metasploit, Burp Suite, Wireshark, Nmap, and more.  
+- 📘 **Writeups Hosted On:** [ne4rby.github.io](https://ne4rby.github.io).  
+
+---
+
+## 🌐 Certifications and Achievements  
+- 🏅 **eJPTv2 Certificate:** [View PDF](https://certs.ine.com/b2678158-1158-460a-b1ab-daea02c34b77#acc.wNMqDc73)    
+
+- 🧩 **TryHackMe Badge:**  
+  ![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3714931" style='border:none;'></iframe>)    
+
+---
+
+## 🔗 Writeups and Projects  
+- Explore my **detailed CTF writeups** for:  
+  - [TryHackMe](https://ne4rby.github.io/categories/tryhackme/)  
+  - [Hack The Box](https://ne4rby.github.io/categories/hackthebox/)  
+
+- Organized by platform, difficulty, and techniques used.  
+
+---
+
+## ⚙️ Skills and Tools  
+| Category              | Tools/Skills                          |  
+|-----------------------|---------------------------------------|  
+| Offensive Security    | Metasploit, Burp Suite, SQLMap        |  
+| Basic Programming     | Python, Bash, Markdown               |  
+| Networking/Scanning   | Wireshark, Nmap                      |  
+| Operating Systems     | Kali Linux, Bspwm                    |  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](#) *(Add your LinkedIn profile here)*  
+- 🐦 [Twitter](#) *(Optional: Add your professional Twitter link)*  
+
+---
+
+> *"Curiosity is not my crime; it's my strength. It drives me to explore, to question, and to create in a world of infinite possibilities."*  
+
+---
+
+## 🖥️ Profile Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ne4rby&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne4rby&layout=compact&theme=radical)  
+
+---
+
