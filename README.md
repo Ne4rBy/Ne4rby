@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-laveau-1930972a3/) 
-- 📩 [E-Mail](samuellaveau05@gmail.com)
+- 📩 E-Mail -> samuellaveau05@gmail.com
 
 ---
 
