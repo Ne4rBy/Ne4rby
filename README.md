@@ -6,14 +6,13 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
 
 ## 🛡️ About Me  
 - 💻 **Certified:** eJPTv2.  
-- 🎯 **Focus Areas:** Penetration testing, exploit development, and CTF challenges.  
-- 🛠️ **Tools I Use:** Metasploit, Burp Suite, Wireshark, Nmap, and more.  
+- 🎯 **Focus Areas:** Penetration testing, exploit development, and CTF challenges.   
 - 📘 **Writeups Hosted On:** [ne4rby.github.io](https://ne4rby.github.io).  
 
 ---
 
 ## 🌐 Certifications and Achievements  
-- 🏅 **eJPTv2 Certificate:** [View PDF](https://certs.ine.com/b2678158-1158-460a-b1ab-daea02c34b77#acc.wNMqDc73)    
+- 🏅 **eJPTv2 Certificate:** [View](https://certs.ine.com/b2678158-1158-460a-b1ab-daea02c34b77#acc.wNMqDc73)    
 
 - 🧩 **TryHackMe Badge:**  
 
