@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
 
 - 🧩 **TryHackMe Badge:**  
 
-![Desktop View](https://tryhackme-badges.s3.amazonaws.com/Ne4rby.png)
+<img src="https://ne4rby.github.io/assets/img/Ne4rby.png" alt="Your Image Badge" />
 
 ---
 
